@@ -4,6 +4,7 @@ import openai
 # OpenAI API-Schlüssel
 openai.api_key = "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"
 
+
 st.title("Einfacher Frage-Antwort-Assistent")
 
 # Eingabe eines Textes
